@@ -2,7 +2,7 @@ locals {
   netname      = "seared-kobe"
   aws_key_name = "testnet"
   coda_repo    = "release"
-  coda_version = "0.0.9-beta-b80b9291"
+  coda_version = "0.0.9-beta2-3abcbc11"
 }
 
 terraform {
