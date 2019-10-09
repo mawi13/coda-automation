@@ -85,6 +85,7 @@ FILET_MIGNON_STAKING_CHALLENGE = {
     'tdNDetSonXJbJ2D9Cdi8psYknDuaGyZQ9eUC34zSrfFmV3H4JZtkbB2xhiCkY9AtuDQJwRvV2zFhLt42zS27gx5cpZF1pqVTpkmb2wSHPjiF117TjNu5ohsd7V6WwjJ3aeDUTrGVjRbs6B': 'Mikhail#7170',
     'tdNE4ogXK7oM1QSUiueUQPcYkawNqyMekjmzg8azroWAPLbZAANxLBrYtYMHFVqjFvXNiVSbdnjzGZxixeePdgaALXQcNPhEznMzGgmm1geqynU9Hyxj6gd3icDJet3wHDBLCKsgGVQFFe': 'fullmoon#9069',
     'tdNEAq5uer5nTv9VYkE2YDJLxXUas342xjxdaXjEYUZfzGoNwxqv1rEUBdhRHgTyh5PUHjq7UstsWPNtSynUqFukxzdUkWa5Q1QpiCxV8vW7d3hHvbiegcGZHFiwR3mnN4Q5yAUfCPMEGB': 'RomanS#8785'
+    'tdNDowo9QyHT1KnkQP4173GMona8MdrQ7UbG1E1BxdUgyxAMh9KK2w9tfcBcfxWgQzH29JtZpFZ7MekRtytfR5no6RjdnKdgrx5PByfEXhtZzX3HX74qVEL33qnDfdf6gqMpCxjjgLHECY': 'niuniu#9001'
 }
 
 # For Community Members
