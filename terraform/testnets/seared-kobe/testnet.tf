@@ -1,8 +1,8 @@
 locals {
   netname      = "seared-kobe"
   aws_key_name = "testnet"
-  coda_repo    = "stable"
-  coda_version = "240315-release-0.0.9-beta-be49825c-PV1253446f"  # Note: '*' gets latest when specifying version
+  coda_repo    = "release"
+  coda_version = "0.0.9-beta2-3abcbc11"
 }
 
 terraform {
