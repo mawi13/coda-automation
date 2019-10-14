@@ -3,7 +3,7 @@ data "aws_secretsmanager_secret" "discord_api_key" {
 }
 
 data "aws_secretsmanager_secret_version" "current_discord_api_key" {
-  secret_id = "${data.aws_secretsmanager_secret.prometheus_aws_keys.id}"
+  secret_id = "${data.aws_secretsmanager_secret.discord_api_key.id}"
 }
 
 data "aws_secretsmanager_secret" "daemon_aws_access_keys" {
@@ -11,7 +11,7 @@ data "aws_secretsmanager_secret" "daemon_aws_access_keys" {
 }
 
 data "aws_secretsmanager_secret_version" "current_daemon_aws_access_keys" {
-  secret_id = "${data.aws_secretsmanager_secret.daemon_aws_keys.id}"
+  secret_id = "${data.aws_secretsmanager_secret.daemon_aws_access_keys.id}"
 }
 
 data "aws_secretsmanager_secret" "service_daemon_privkey_pass" {

@@ -1,8 +1,9 @@
 locals {
-  netname      = "fillet-mignon"
+  netname      = "autodeploy-test"
   aws_key_name = "testnet"
-  coda_repo    = "stable"
-  coda_version = "240315-release-0.0.9-beta-be49825c-PV1253446f"  # Note: '*' gets latest when specifying version
+  coda_repo    = "release"
+  coda_version = "0.0.9-beta3-77280b7c"  # Note: '*' gets latest when specifying version
+  ecs_cluster_id = "O1Labs-Services"
 }
 
 terraform {
