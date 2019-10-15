@@ -28,5 +28,5 @@ module "faucet" {
     coda_rest_port = 8304
     coda_external_port = 10101
     coda_metrics_port = 10000
-    coda_privkey_pass = "testnet"
+    coda_privkey_pass = jsondecode(data.aws_secretsmanager_secret_version.current_testnet_coda_privkey_pass.secret_string)["coda_privkey_pass"]
 }
