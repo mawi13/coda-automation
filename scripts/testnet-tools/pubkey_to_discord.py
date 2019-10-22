@@ -38,6 +38,7 @@ STAKING_CHALLENGE = {
     'tdNE4ogXK7oM1QSUiueUQPcYkawNqyMekjmzg8azroWAPLbZAANxLBrYtYMHFVqjFvXNiVSbdnjzGZxixeePdgaALXQcNPhEznMzGgmm1geqynU9Hyxj6gd3icDJet3wHDBLCKsgGVQFFe': 'fullmoon#9069',
     'tdNEAq5uer5nTv9VYkE2YDJLxXUas342xjxdaXjEYUZfzGoNwxqv1rEUBdhRHgTyh5PUHjq7UstsWPNtSynUqFukxzdUkWa5Q1QpiCxV8vW7d3hHvbiegcGZHFiwR3mnN4Q5yAUfCPMEGB': 'RomanS#8785'
     'tdNDowo9QyHT1KnkQP4173GMona8MdrQ7UbG1E1BxdUgyxAMh9KK2w9tfcBcfxWgQzH29JtZpFZ7MekRtytfR5no6RjdnKdgrx5PByfEXhtZzX3HX74qVEL33qnDfdf6gqMpCxjjgLHECY': 'niuniu#9001'
+    'tdNDiwuiTmv6aypqJ6ko4ALcwssDv6E8bEnNHEaVxPFZTpfFX4zqBPahv6Bji24iM2APDuUkFmCbtoK8kbyePPSJJRMt8TowaKRBaHAgz5noMeffrt69C1XkwYgWGQSZCF4KcSkP8gF3e7': 'masupilami#4665'
 }
 
 # For Community Members
